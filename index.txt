@@ -2,17 +2,17 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Victor Hu
+Victor Hu
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+contact@victorhu.org
 
 Phone
-+1 (213) 352-2795
++1 (416) 858-8395
 
 Birthday
 June 23, 1982
